@@ -10,4 +10,4 @@ TurkStudentCo Data Science Bootcamp'te yaptığım haftalık SQL ödevleri. Heps
 
 Her klasörde o haftanın sorgularını tek tek anlatan bir README var.
 
-Bootcamp'in final projesi ayrı bir repoda: [sql-education-platform-project](https://github.com/beratciftci4/sql-education-platform-project)
+Bootcamp'in final projesi ayrı bir repoda: [SQL-Education-Platform-Project](https://github.com/beratciftci4/SQL-Education-Platform-Project)
